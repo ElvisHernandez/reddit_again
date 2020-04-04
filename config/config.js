@@ -1,15 +1,15 @@
 module.exports = {
   development: {
-    username: 'postgres',
-    password: null,
+    username: 'elvis',
+    password: 'NEVER_STOP_LEARNING',
     database: 'database_development',
     host: '127.0.0.1',
     dialect: 'postgres',
     operatorsAliases: 0
   },
   test: {
-    username: 'postgres',
-    password: null,
+    username: 'elvis',
+    password: 'NEVER_STOP_LEARNING',
     database: 'database_test',
     host: '127.0.0.1',
     dialect: 'postgres',
